@@ -1,2 +1,2 @@
 # romzvpnpro
-A simple landing webpage for KjayVPN
+A simple landing webpage for Rainbow VPN
